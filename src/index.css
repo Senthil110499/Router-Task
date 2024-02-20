@@ -1,0 +1,27 @@
+
+a::after{
+  content: '';
+  right:0;
+  width:0;
+  display: block;
+  height: 3px;
+  background-color: rgb(13, 186, 75);
+  color:rgb(13, 186, 75);
+  transition: all 0.4s ease-in-out;
+  position: relative;
+  top: 25px;
+}
+
+a:hover::after{
+  left: 0;
+  width:100%;
+}
+
+a:hover{
+  color: rgb(13, 186, 75);
+}
+
+.h4{
+  color: rgb(13, 186, 75);
+}
+
