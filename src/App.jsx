@@ -73,7 +73,7 @@ const App = () => {
     },
     {
     id:"8",
-    image: 'https://www.guvi.in/blog/wp-content/uploads/2023/04/javascript-animated-image-768x432.jpg',
+    image: 'https://www.guvi.in/blog/wp-content/uploads/2024/01/Feature-image-Top-Technologies-to-Learn-Jumpstart-a-Successful-Tech-Career.webp',
     course: "CAREER",
     content1: "Master JavaScript Frontend Roadmap: From Novice to Expert [2024]",
     content2:"Are you eager to learn JavaScript? Want to dive deep into the JavaScript frontend roadmap? Want to know what are the skills and technologies required to become a front-end developer? the creators behind transforming the raw data into edible data insights.",
@@ -190,7 +190,7 @@ const App = () => {
     },
     {
     id:"21",
-    image: 'https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Data-Science-Tools-1-768x402.png',
+    image: 'https://www.guvi.in/blog/wp-content/uploads/2023/11/feature-image-product-based-companies-for-data-science-freshers.webp',
     course: "DATA SCIENCE",
     content1: "Top 10 Data Science Tools in 2024",
     content2:"Data Science is an in-demand profession and will continue growing in the coming years.",
@@ -244,7 +244,7 @@ const App = () => {
     },
     {
     id:"27",
-    image: 'https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png',
+    image: 'https://www.guvi.in/blog/wp-content/uploads/2024/02/Feature-image-Comprehensive-List-of-Project-Ideas-for-Frontend-Development.webp',
     course: "CYBER SECURITY",
     content1: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
     content2:"Cybersecurity & Ethical hacking and have been key in making sure that your data online is secure, users are authenticated & your data and privacy concerns are all kept safe.",
@@ -253,7 +253,7 @@ const App = () => {
     },
     {
     id:"28",
-    image: 'https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif',
+    image: 'https://www.guvi.in/blog/wp-content/uploads/2024/02/who_is_a_front_end_developer-768x402.webp',
     course: "CYBER SECURITY",
     content1: "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
     content2:"Look around today, you will witness that we are more reliant on technology and devices than ever before. ",
@@ -262,7 +262,7 @@ const App = () => {
     },
     {
     id:"29",
-    image: 'https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-1200x675.png',
+    image: 'https://www.guvi.in/blog/wp-content/uploads/2024/02/Feature-image-Comprehensive-List-of-Project-Ideas-for-Frontend-Development.webp',
     course: "CYBER SECURITY",
     content1: "8 Different Types of Cybersecurity and Threats Involved",
     content2:"Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from cyberattacks, data theft, breaches, unauthorized access, etc. ",
@@ -271,7 +271,7 @@ const App = () => {
     },
     {
     id:"30",
-    image: 'https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif',
+    image: 'https://www.guvi.in/blog/wp-content/uploads/2024/02/who_is_a_front_end_developer-768x402.webp',
     course: "CYBER SECURITY",
     content1: "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
     content2:"Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well",
@@ -280,7 +280,7 @@ const App = () => {
   },
   {
     id:"31",
-    image: 'https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact-1200x375.jpg',
+    image: 'https://www.guvi.in/blog/wp-content/uploads/2024/02/Feature-image-Comprehensive-List-of-Project-Ideas-for-Frontend-Development.webp',
     course: "CYBER SECURITY",
     content1: "Top 7 Cyber Security Attacks in Real Life",
     content2:"Cyber security attacks are the type of actions that are designed to destroy, steal, modify, or disable information through unauthorized access to computer systems.",
@@ -289,7 +289,7 @@ const App = () => {
   },
   {
     id:"32",
-    image: 'https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-945x495.png',
+    image: 'https://www.guvi.in/blog/wp-content/uploads/2024/02/who_is_a_front_end_developer-768x402.webp',
     course: "CYBER SECURITY",
     content1: "The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
     content2:"There is something fascinating about a lone hacker in black hoodies using a single system and their skills to take down big corporations and their crony capitalism.",
@@ -307,7 +307,7 @@ const App = () => {
   },
   {
     id:"34",
-    image: 'https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png',
+    image: 'https://www.guvi.in/blog/wp-content/uploads/2024/02/Feature-image-Comprehensive-List-of-Project-Ideas-for-Frontend-Development.webp',
     course: "CYBER SECURITY",
     content1: "How Is Cyber Security Important To Our Lives?",
     content2:"Cybersecurity is an exact solution that is sought either by a billionaire with a massive business or an innovator with a small start-up or even an individual who risks personal data online. Let’s see more.",
@@ -316,7 +316,7 @@ const App = () => {
     },
   {
     id:"35",
-    image: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg',
+    image: 'https://www.guvi.in/blog/wp-content/uploads/2024/01/Feature-image-Top-Technologies-to-Learn-Jumpstart-a-Successful-Tech-Career.webp',
     course: "CAREER",
     content1: "UI/UX Designer Job Description and Roles & Responsibilities",
     content2:"UI UX is the abbreviated word that’s been rocking the trend over the years, especially in the past decade.",
